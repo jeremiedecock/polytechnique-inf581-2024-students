@@ -1,0 +1,13 @@
+cma
+gymnasium[box2d]
+imageio
+inf581==1.0.4
+matplotlib
+#nnfigs
+numpy
+pandas
+pygame
+scipy
+seaborn
+#torch
+tqdm
