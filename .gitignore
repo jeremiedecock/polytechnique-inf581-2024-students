@@ -1,0 +1,13 @@
+env/
+.ipynb_checkpoints/
+*.gif
+*.pyc
+.vscode/
+Untitled*.ipynb
+backup/
+build/
+dist/
+inf581.egg-info/
+inf581/__pycache__/
+outcmaes/
+*-Copy*.ipynb
