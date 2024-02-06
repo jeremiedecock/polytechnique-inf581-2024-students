@@ -2,7 +2,7 @@
 
 Copyright (c) 2019-2024 Jérémie Decock
 
-<img src="https://raw.githubusercontent.com/jeremiedecock/polytechnique-inf581-2024-students/main/logo.jpg" width="100" \>
+<img src="https://raw.githubusercontent.com/jeremiedecock/polytechnique-inf581-2024-students/main/logo.jpg" width="100">
 
 - Github repository: https://github.com/jeremiedecock/polytechnique-inf581-2024-students
 - Moodle: https://moodle.polytechnique.fr/course/view.php?id=17108
