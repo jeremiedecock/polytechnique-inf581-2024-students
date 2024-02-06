@@ -35,7 +35,7 @@ C.f. `requirements.txt`
 
 ### Installation
 
-#### Posix (Linux, MacOSX, WSL, ...)
+#### Posix (Linux, MacOSX, WSL, ...)
 
 From the source code:
 ```bash
