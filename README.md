@@ -31,7 +31,15 @@ Copyright (c) 2019-2024 Jérémie Decock
 
 ### Dependencies
 
-C.f. `requirements.txt`
+Python required version: Python 3.11.
+
+Python required libraries: c.f. `requirements.txt`
+
+Install Box2D (instructions for Debian like systems):
+```bash
+sudo apt update
+sudo apt install build-essential swig libbox2d2
+```
 
 ### Installation
 
