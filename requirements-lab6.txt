@@ -1,0 +1,14 @@
+gymnasium
+imageio           # required to visualize environments as GIF images within the notebook
+ipywidgets        # required for tqdm
+jupyterlab
+#jupytext
+matplotlib
+numpy
+pandas
+pygame            # required for the "cartpole" Gym environment
+pyvirtualdisplay  # required for rendering in a headless environment
+scipy
+seaborn
+torch             # required for DQN and REINFORCE
+tqdm
