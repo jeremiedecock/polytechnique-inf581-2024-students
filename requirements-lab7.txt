@@ -11,5 +11,5 @@ pygame            # required for the "cartpole" Gym environment
 pyvirtualdisplay  # required for rendering in a headless environment
 scipy
 seaborn
-torch             # required for DQN and REINFORCE
-tqdm
+#torch             # required for DQN and REINFORCE
+#tqdm
